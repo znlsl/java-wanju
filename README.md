@@ -1,3 +1,4 @@
+
 ### Docker容器、vps、玩具部署的通用脚本
 
 ### 支持目前所有协议，协议可选
@@ -67,6 +68,9 @@ https://github.com/dsadsadsss/sub-worker-Supabase.git
 KV版本：
 
 https://github.com/dsadsadsss/workers-sub-for-wanju.git
+
+抖音去水印 https://videop.zeabur.app/
+
 # 免责声明:
 
 
