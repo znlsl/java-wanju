@@ -71,6 +71,8 @@ https://github.com/dsadsadsss/workers-sub-for-wanju.git
 
 抖音去水印 https://videop.zeabur.app/
 
+SSH登陆 https://ssh.eooce.com/
+
 # 免责声明:
 
 
