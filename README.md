@@ -51,7 +51,7 @@ https://github.com/dsadsadsss/python-wanju.git
 
 https://github.com/dsadsadsss/python-wanju2.git
 
-#### JAVA插件版:
+#### Paper Java插件版:
 
 https://github.com/dsadsadsss/Java-wanju-plugins.git
 
