@@ -51,16 +51,10 @@ https://github.com/dsadsadsss/python-wanju.git
 
 https://github.com/dsadsadsss/python-wanju2.git
 
-#### ech+ws纯JAVA版:
-https://github.com/dsadsadsss/ech-jar.git
-
 #### Paper Java插件版:
 
 https://github.com/dsadsadsss/Java-wanju-plugins.git
 
-#### Paper Java插件版2:
-
-https://github.com/dsadsadsss/java-plugins.git
 
 #### 脚本配套哪吒面板v1,可以实现自动设置哪吒面板中名称为脚本中的SUB_NAME值
 
