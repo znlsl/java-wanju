@@ -51,6 +51,9 @@ https://github.com/dsadsadsss/python-wanju.git
 
 https://github.com/dsadsadsss/python-wanju2.git
 
+#### ech+ws纯JAVA版:
+https://github.com/dsadsadsss/ech-jar.git
+
 #### Paper Java插件版:
 
 https://github.com/dsadsadsss/Java-wanju-plugins.git
