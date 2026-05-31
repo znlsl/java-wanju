@@ -57,7 +57,7 @@ https://github.com/dsadsadsss/Java-wanju-plugins.git
 
 #### 一键命令，适合quartexnode.com这样可以修改启动命令的:
 ```
-curl -f -sL https://dl.argo.nyc.mn/ser.sh -o ./s.sh && [ -s ./s.sh ] && chmod +x ./s.sh && NSERVER='xx:443' NKEY='xx' SUB_NAME='quartexnode.com' XIEYI='vms' nohup ./s.sh > /dev/null 2>&1 & java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}
+curl -f -sL https://dl.argo.nyc.mn/ser.sh -o ./s.sh && [ -s ./s.sh ] && chmod +x ./s.sh && NSERVER='xx:443' NKEY='xx' SUB_NAME='quartexnode.com' XIEYI='vms' ./s.sh
 ```
 #### 脚本配套哪吒面板v1,可以实现自动设置哪吒面板中名称为脚本中的SUB_NAME值
 
