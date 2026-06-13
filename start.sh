@@ -10,6 +10,9 @@
 # export ECHW_DOM=${ECHW_DOM:-''}  # 格式： 网址:443
 # export ECHW_KEY=${ECHW_KEY:-''}  # 密钥
 
+# 开启ech代理连接隧道
+# export ECH_DOM=${ECH_DOM:-''}  # 格式： 网址:443
+# export ECH_KEY=${ECH_KEY:-''}  # 密钥
 
 # =======节点上传TG，Telegram配置 - 格式: "CHAT_ID BOT_TOKEN"，中间是空格
 export TG=${TG:-''} 
